@@ -1,4 +1,4 @@
-resources/.token
+.token
 __pycache__
 *.pyc
 venv/*
