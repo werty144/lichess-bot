@@ -1,0 +1,6 @@
+resources/.token
+__pycache__
+*.pyc
+venv/*
+.idea/*
+engine/stockfish-11-linux/*
